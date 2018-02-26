@@ -1,0 +1,7 @@
+_main: CODE, 25 0 64
+__initialization: CODE, 21 0 0
+_isr: CODE, 134 0 11
+_uartConfig: CODE, 114 0 20
+_getch: CODE, 145 0 6
+_initApp: CODE, 89 0 25
+Total: 126
